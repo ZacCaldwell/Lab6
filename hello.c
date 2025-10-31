@@ -2,7 +2,7 @@
 
 int main(void){
 
-    printf("Hello World!");
+    printf("Halloween is next weekend!");
 
     return 0;
 
